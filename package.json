@@ -1,0 +1,15 @@
+{
+  "name": "coders-logger",
+  "version": "1.0.3",
+  "description": "Make your console.log colorful",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev4m1/coders-logger.git"
+  },
+  "main": "index.js",
+  "author": "Ami",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
